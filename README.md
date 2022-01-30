@@ -1,0 +1,2 @@
+# patikaa
+odev4
